@@ -10,7 +10,7 @@ const AddButton = ({ handleShow }) => {
                         Add Card
                     </Button>
                 </Col>
-            </Row>asd
+            </Row>
         </Container>   
     )
 }
